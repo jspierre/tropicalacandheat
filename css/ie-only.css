@@ -1,0 +1,45 @@
+#sliderprep {
+margin-top:5px;
+}
+
+#home{
+margin-top:-48px;
+margin-left:440px; 
+white-space: nowrap; 
+}
+
+#cell {
+margin-top:-49px;
+margin-left:460px;
+white-space: nowrap; 
+}
+
+#topbarright {
+margin: -22px 15px 0 0;
+}
+
+#boxcontent input {
+height:25px;
+padding-top:2px;
+}
+
+#besttimebox input, #besttimebox input:focus {
+vertical-align:middle;
+width:18px;
+height:18px;
+}
+
+#methodbox input, #methodbox input:focus {
+vertical-align:middle;
+width:18px;
+height:18px
+}
+
+#subscribe input, #subscribe input:focus {
+vertical-align:middle;
+border:0px;
+padding:0px;
+margin:0px;
+width:18px;
+height:18px;
+}
